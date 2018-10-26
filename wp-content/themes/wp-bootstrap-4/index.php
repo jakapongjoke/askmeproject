@@ -35,7 +35,7 @@ get_header(); ?>
 
 	<div class="container">
 		<div class="row">
-hi
+
 			<?php if ( $default_sidebar_position === 'no' ) : ?>
 				<div class="col-md-12 wp-bp-content-width">
 			<?php else : ?>
