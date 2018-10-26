@@ -340,7 +340,12 @@ body.custom-background .wp-bp-main-content .col-md-8 { background: #f8f9fa; padd
 #askme #site-navigation{
   background: white !important;
 }
-
+#askme .nav-item{
+  color:black;
+}
+#askme .nav-item a {
+  color: black;
+}
 @media (min-width: 768px) { 
   .hentry.card .card-body { padding: 2.5rem 4rem; 
 }
